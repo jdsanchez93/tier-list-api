@@ -15,5 +15,4 @@ public class TierListRow
 
     public int? TierListId { get; set; }
 
-    public TierList? TierList { get; set; }
 }
